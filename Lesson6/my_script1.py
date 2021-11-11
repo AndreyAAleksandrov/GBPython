@@ -8,3 +8,6 @@ class Auto:
 a_1 = Auto()
 a_2 = Auto()
 a_3 = Auto()
+
+
+print("test")
